@@ -1,4 +1,6 @@
 # 📱 Mobile Device Programming Personal Exercises
+![image](https://github.com/user-attachments/assets/5ae6fd8f-a7ae-4e70-85d9-c82e08102805)
+
 
 > 🧪 Thực hành lập trình thiết bị di động bằng **Java/Kotlin** cho **Android**  
 > 🎯 Bài tập gồm: UI, xử lý sự kiện, dữ liệu, cảm biến 
