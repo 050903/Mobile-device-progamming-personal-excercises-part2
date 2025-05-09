@@ -55,6 +55,7 @@ II. Xu hướng công nghệ nổi bật
 •	Làm giảm áp lực lên lập trình viên mobile truyền thống nhưng mở ra cơ hội làm giải pháp, tích hợp API.
 ________________________________________
 III. Hệ sinh thái và công cụ phát triển
+![image](https://github.com/user-attachments/assets/e52fe9b5-261d-4da5-bcc3-5c85be6451c8)
 ________________________________________
 IV. Thị trường lao động và nhu cầu
 1. Nhu cầu tuyển dụng cao
@@ -77,6 +78,17 @@ VI. Kết luận
 •	Lập trình viên cần học đa nền tảng, thích ứng nhanh công nghệ mới.
 •	Các startup và công ty SME sẽ ưu tiên cross-platform để tiết kiệm chi phí.
 •	Hệ sinh thái mobile đang gắn chặt với cloud, AI và IoT — không còn là một mảng độc lập.
+#### Lập trình thiết bị di động phát triển mạnh trong 10 năm qua vì:
+
+Số lượng người dùng smartphone tăng vọt, tạo nhu cầu khổng lồ cho ứng dụng di động.
+
+Doanh nghiệp chuyển dịch số, cần app để bán hàng, chăm sóc khách hàng, thanh toán...
+
+Công nghệ cross-platform (Flutter, React Native) giúp tiết kiệm chi phí, thời gian phát triển.
+
+AI, IoT, AR/VR tích hợp vào mobile, làm ứng dụng ngày càng thông minh và hấp dẫn.
+
+Super apps & nhu cầu trải nghiệm tốt buộc các công ty đầu tư vào app mạnh mẽ hơn.
 ### 3:
 
 ### 📌 Ghi chú
