@@ -39,7 +39,7 @@
 
 ### Assignment 1: Industry Analysis
 
-![Mobile Development Trends](https://github.com/user-attachments/assets/28961297-3d6a-4468-9434-464849e0acb2)
+![image](https://github.com/user-attachments/assets/3bf6a676-f6dd-4c81-b85c-06e1aa910f45)
 
 #### Role Analysis: Mobile App Developer (Flutter & Native Android)
 
