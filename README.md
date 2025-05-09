@@ -1,8 +1,7 @@
 # 📱 Mobile Device Programming Exercises
 
 > 🧪 Thực hành lập trình thiết bị di động bằng **Java/Kotlin** cho **Android**  
-> 🎯 Bài tập gồm: UI, xử lý sự kiện, dữ liệu, cảm biến và SQLite
-
+> 🎯 Bài tập gồm: UI, xử lý sự kiện, dữ liệu, cảm biến 
 ---
 
 ### 🚀 Công nghệ sử dụng
@@ -10,7 +9,6 @@
 - ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
 
