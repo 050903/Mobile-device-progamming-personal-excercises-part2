@@ -69,7 +69,7 @@ A mobile application developer proficient in both Flutter (for cross-platform de
    - Shifting developer focus toward complex solutions and API integrations
 
 ##### Development Ecosystem & Tools
-![Development Ecosystem](https://github.com/user-attachments/assets/e52fe9b5-261d-4da5-bcc3-5c85be6451c8)
+![image](https://github.com/user-attachments/assets/c6b52913-9fae-4e66-a524-afc82412d6b8)
 
 ##### Job Market & Demand
 
