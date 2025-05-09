@@ -32,10 +32,10 @@
 # Bài tập buổi 1
 ![image](https://github.com/user-attachments/assets/28961297-3d6a-4468-9434-464849e0acb2)
 
-1: "Mobile App Developer (Flutter & Native Android)" 
+### 1: "Mobile App Developer (Flutter & Native Android)" 
 - Lập trình viên có khả năng phát triển ứng dụng di động bằng Flutter (để chạy trên cả Android và iOS) và Native Android (Kotlin/Java) khi cần tối ưu hiệu năng hoặc sử dụng tính năng đặc thù của Android.
 
-2: Phân tích thị trường lập trình thiết bị di động trong vòng 10 năm (2015–2025) cho thấy sự phát triển vượt bậc cả về công nghệ, nhu cầu người dùng và hệ sinh thái phát triển phần mềm. Dưới đây là tổng quan theo từng khía cạnh chính:
+### 2: Phân tích thị trường lập trình thiết bị di động trong vòng 10 năm (2015–2025) cho thấy sự phát triển vượt bậc cả về công nghệ, nhu cầu người dùng và hệ sinh thái phát triển phần mềm. Dưới đây là tổng quan theo từng khía cạnh chính:
 ________________________________________
 I. Tổng quan thị trường (2015–2025)
 ![image](https://github.com/user-attachments/assets/e523ed80-ce09-4161-80a5-0e610d713a34)
@@ -77,6 +77,7 @@ VI. Kết luận
 •	Lập trình viên cần học đa nền tảng, thích ứng nhanh công nghệ mới.
 •	Các startup và công ty SME sẽ ưu tiên cross-platform để tiết kiệm chi phí.
 •	Hệ sinh thái mobile đang gắn chặt với cloud, AI và IoT — không còn là một mảng độc lập.
+### 3:
 
 ### 📌 Ghi chú
 
