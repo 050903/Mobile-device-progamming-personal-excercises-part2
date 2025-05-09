@@ -4,12 +4,14 @@
 > 🎯 Bài tập gồm: UI, xử lý sự kiện, dữ liệu, cảm biến 
 ---
 
-### 🚀 Công nghệ sử dụng
+## 🛠 Tech Stack
 
-- ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-
+- 📱 Mobile: Kotlin (Android), SwiftUI (iOS), Flutter (Dart)
+- 🧰 IDE & SDK:
+  - [Android Studio](https://developer.android.com/studio/install?hl=vi)
+  - [Xcode](https://developer.apple.com/xcode/)
+  - [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- 🎨 Thiết kế UI: [Figma](https://www.figma.com/downloads/)
 ---
 
 ### 📂 Nội dung chính
