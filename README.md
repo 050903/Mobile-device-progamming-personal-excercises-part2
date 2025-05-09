@@ -1,100 +1,109 @@
-# 📱 Mobile Device Programming Personal Exercises
-![image](https://github.com/user-attachments/assets/5ae6fd8f-a7ae-4e70-85d9-c82e08102805)
+# 📱 Mobile Device Programming
 
+![Android Development](https://github.com/user-attachments/assets/5ae6fd8f-a7ae-4e70-85d9-c82e08102805)
 
-> 🧪 Thực hành lập trình thiết bị di động bằng **Java/Kotlin** cho **Android**  
-> 🎯 Bài tập gồm: UI, xử lý sự kiện, dữ liệu, cảm biến 
----
+## 📑 Overview
 
-## 🛠 Tech Stack
+> A collection of personal exercises for mobile device programming using **Java/Kotlin** for **Android**, covering UI development, event handling, data management, and sensor integration.
 
-- 📱 Mobile: Kotlin (Android), SwiftUI (iOS), Flutter (Dart)
-- 🧰 IDE & SDK:
-  - [Android Studio](https://developer.android.com/studio/install?hl=vi)
-  - [Xcode](https://developer.apple.com/xcode/)
-  - [Flutter SDK](https://docs.flutter.dev/get-started/install)
-- 🎨 Thiết kế UI: [Figma](https://www.figma.com/downloads/)
----
+## 🛠️ Tech Stack
 
-### 📂 Nội dung chính
+| Platform | Languages & Frameworks | 
+|----------|------------------------|
+| 📱 Android | Java, Kotlin |
+| 📱 iOS | Swift, SwiftUI |
+| 📱 Cross-platform | Flutter (Dart) |
 
-| STT | Chủ đề                     | Nội dung chính                      |
-|-----|----------------------------|-------------------------------------|
-| 1   | UI Cơ bản                  | Layout, View, Event                 |
-| 2   | Hoạt động và Intent        | Lifecycle, chuyển màn hình         |
-| 3   | Lưu trữ dữ liệu            | SharedPreferences, SQLite          |
-| 4   | Cảm biến và vị trí         | SensorManager, GPS                 |
-| 5   | Dự án nhỏ                  | Todo App, Note App, v.v.           |
+### Development Tools
 
----
+- **Android**: [Android Studio](https://developer.android.com/studio/install?hl=vi)
+- **iOS**: [Xcode](https://developer.apple.com/xcode/)
+- **Flutter**: [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- **UI Design**: [Figma](https://www.figma.com/downloads/)
 
-### 📎 Liên kết nhanh
+## 📚 Course Content
 
-🔗 [📁 Source Code](https://github.com/050903/Mobile-device-programming-exercises)
+| Module | Topic | Key Concepts |
+|--------|-------|-------------|
+| 1 | Basic UI | Layouts, Views, Event Handling |
+| 2 | Activities & Intents | Activity Lifecycle, Screen Navigation |
+| 3 | Data Storage | SharedPreferences, SQLite |
+| 4 | Sensors & Location | SensorManager, GPS Integration |
+| 5 | Mini-Projects | Todo App, Note App, etc. |
 
----
-# Bài tập buổi 1
-![image](https://github.com/user-attachments/assets/28961297-3d6a-4468-9434-464849e0acb2)
+## 🔗 Quick Links
 
-### 1: "Mobile App Developer (Flutter & Native Android)" 
-- Lập trình viên có khả năng phát triển ứng dụng di động bằng Flutter (để chạy trên cả Android và iOS) và Native Android (Kotlin/Java) khi cần tối ưu hiệu năng hoặc sử dụng tính năng đặc thù của Android.
+- [Source Code Repository](https://github.com/050903/Mobile-device-programming-exercises)
 
-### 2: Phân tích thị trường lập trình thiết bị di động trong vòng 10 năm (2015–2025) cho thấy sự phát triển vượt bậc cả về công nghệ, nhu cầu người dùng và hệ sinh thái phát triển phần mềm. Dưới đây là tổng quan theo từng khía cạnh chính:
-________________________________________
-I. Tổng quan thị trường (2015–2025)
-![image](https://github.com/user-attachments/assets/e523ed80-ce09-4161-80a5-0e610d713a34)
-________________________________________
-II. Xu hướng công nghệ nổi bật
-1. Cross-platform phát triển mạnh
-•	React Native (Meta): phổ biến vì viết một lần chạy cả iOS và Android.
-•	Flutter (Google): tốc độ phát triển nhanh, UI đẹp, được nhiều công ty startup và fintech sử dụng.
-•	Kết quả: tiết kiệm chi phí, rút ngắn thời gian phát triển.
-2. AI/ML và Personalization
-•	Các ứng dụng tích hợp AI ngày càng phổ biến (nhận diện hình ảnh, giọng nói, chatbot, gợi ý nội dung…).
-•	SDK của Google ML Kit, CoreML của Apple giúp lập trình viên tích hợp AI dễ dàng hơn.
-3. Super Apps & Ecosystem
-•	Ở châu Á (Trung Quốc, Đông Nam Á): WeChat, Zalo, Grab trở thành siêu ứng dụng, tích hợp nhiều tính năng: chat, thanh toán, mua sắm, gọi xe…
-4. Low-code / No-code
-•	Các nền tảng như Thunkable, Adalo, AppGyver giúp người không biết lập trình tạo app nhanh chóng.
-•	Làm giảm áp lực lên lập trình viên mobile truyền thống nhưng mở ra cơ hội làm giải pháp, tích hợp API.
-________________________________________
-III. Hệ sinh thái và công cụ phát triển
-![image](https://github.com/user-attachments/assets/e52fe9b5-261d-4da5-bcc3-5c85be6451c8)
-________________________________________
-IV. Thị trường lao động và nhu cầu
-1. Nhu cầu tuyển dụng cao
-•	Mobile developer vẫn luôn nằm trong top 10 nghề công nghệ có nhu cầu cao.
-•	Các lĩnh vực cần app mobile: tài chính, giáo dục, y tế, logistic, thương mại điện tử, truyền thông.
-2. Lương và cơ hội việc làm
-•	Lập trình viên Flutter/React Native: 800–3000 USD/tháng (tùy quốc gia).
-•	Lập trình viên Native (iOS/Android): vẫn có nhu cầu trong các công ty lớn cần hiệu năng cao.
-•	Freelance mobile developer ngày càng phổ biến.
-________________________________________
-V. Dự đoán 3–5 năm tới (2025–2030)
-•	AI/Edge computing sẽ được tích hợp sâu hơn trên thiết bị di động.
-•	AR/VR + Mobile (đặc biệt với Apple Vision Pro) sẽ mở ra làn sóng mới.
-•	Progressive Web App (PWA) sẽ cạnh tranh với app truyền thống.
-•	Cross-platform tiếp tục thống trị; native chỉ dùng cho nhu cầu đặc thù (hiệu năng, bảo mật).
-•	Developer không chỉ cần biết code mà phải hiểu UX/UI, security, AI/ML tích hợp, tối ưu hiệu năng.
-________________________________________
-VI. Kết luận
-•	Cơ hội nghề nghiệp cao, nhưng cạnh tranh cũng gay gắt.
-•	Lập trình viên cần học đa nền tảng, thích ứng nhanh công nghệ mới.
-•	Các startup và công ty SME sẽ ưu tiên cross-platform để tiết kiệm chi phí.
-•	Hệ sinh thái mobile đang gắn chặt với cloud, AI và IoT — không còn là một mảng độc lập.
-#### Lập trình thiết bị di động phát triển mạnh trong 10 năm qua vì:
+## 📝 Assignments
 
-Số lượng người dùng smartphone tăng vọt, tạo nhu cầu khổng lồ cho ứng dụng di động.
+### Assignment 1: Industry Analysis
 
-Doanh nghiệp chuyển dịch số, cần app để bán hàng, chăm sóc khách hàng, thanh toán...
+![Mobile Development Trends](https://github.com/user-attachments/assets/28961297-3d6a-4468-9434-464849e0acb2)
 
-Công nghệ cross-platform (Flutter, React Native) giúp tiết kiệm chi phí, thời gian phát triển.
+#### Role Analysis: Mobile App Developer (Flutter & Native Android)
 
-AI, IoT, AR/VR tích hợp vào mobile, làm ứng dụng ngày càng thông minh và hấp dẫn.
+A mobile application developer proficient in both Flutter (for cross-platform development) and Native Android (Kotlin/Java) development. This combination allows for flexibility in choosing the right approach based on project requirements—Flutter for rapid cross-platform deployment and Native Android for performance-critical or platform-specific features.
 
-Super apps & nhu cầu trải nghiệm tốt buộc các công ty đầu tư vào app mạnh mẽ hơn.
-### 3:
+#### Mobile Development Market Analysis (2015-2025)
 
-### 📌 Ghi chú
+##### Market Overview
+![image](https://github.com/user-attachments/assets/5f216712-cf31-42e6-8f26-d0a9cd0980a4)
 
-> Đây là các bài tập cá nhân/sinh viên trong quá trình học. Mã nguồn mang tính tham khảo và có thể cải tiến thêm.
+##### Key Technology Trends
+
+1. **Cross-platform Development Growth**
+   - React Native (Meta): Popular for write-once-run-anywhere capabilities
+   - Flutter (Google): Rapidly growing, favored for beautiful UI and adopted by startups and fintech
+   - Benefits: Cost reduction and faster development cycles
+
+2. **AI/ML Integration & Personalization**
+   - Increasing adoption of AI in mobile apps (image recognition, voice processing, chatbots, content recommendations)
+   - Tools like Google ML Kit and Apple's CoreML simplifying AI integration
+
+3. **Super Apps & Ecosystems**
+   - Asia leading with integrated platforms: WeChat, Zalo, Grab combining messaging, payments, shopping, and transportation
+
+4. **Low-code / No-code Solutions**
+   - Platforms like Thunkable, Adalo, and AppGyver enabling non-programmers to create applications
+   - Shifting developer focus toward complex solutions and API integrations
+
+##### Development Ecosystem & Tools
+![Development Ecosystem](https://github.com/user-attachments/assets/e52fe9b5-261d-4da5-bcc3-5c85be6451c8)
+
+##### Job Market & Demand
+
+1. **High Recruitment Demand**
+   - Mobile developers consistently rank in the top 10 technology professions
+   - Strong demand across finance, education, healthcare, logistics, e-commerce, and media sectors
+
+2. **Salary & Employment Opportunities**
+   - Flutter/React Native developers: $800-3000 USD/month (region-dependent)
+   - Native (iOS/Android) developers: Still in demand for high-performance applications
+   - Growing freelance market for mobile developers
+
+##### Future Outlook (2025-2030)
+- Deeper AI and edge computing integration
+- AR/VR mobile experiences (accelerated by Apple Vision Pro)
+- Progressive Web Apps (PWAs) competing with traditional applications
+- Continued dominance of cross-platform frameworks
+- Expanded skill requirements beyond coding to include UX/UI, security, AI/ML, and performance optimization
+
+##### Conclusion
+- Strong career opportunities amid increasing competition
+- Developers need cross-platform skills and adaptability
+- Startups and SMEs prioritizing cost-effective cross-platform solutions
+- Mobile ecosystem increasingly interconnected with cloud, AI, and IoT
+
+#### Key Growth Factors
+The mobile development industry has experienced significant growth over the past decade due to:
+
+- Exponential growth in smartphone users creating massive demand for mobile applications
+- Digital transformation requiring businesses to adopt mobile solutions for sales, customer service, and payments
+- Cost and time efficiency of cross-platform technologies (Flutter, React Native)
+- Integration of advanced technologies (AI, IoT, AR/VR) enhancing mobile app capabilities
+- Super apps and elevated user experience expectations driving investment in mobile development
+
+## 📌 Note
+
+> These are personal/student exercises created during the learning process. Source code is for reference purposes and can be further improved.
