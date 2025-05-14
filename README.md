@@ -107,3 +107,10 @@ The mobile development industry has experienced significant growth over the past
 ## 📌 Note
 
 > These are personal/student exercises created during the learning process. Source code is for reference purposes and can be further improved.
+
+## 👨‍💻 Author
+Trần Thế Hảo
+
+# 🎓 Information Technology, University of Transport Ho Chi Minh City (UTH)
+
+![image](https://github.com/user-attachments/assets/c2488ba6-05d8-40dd-b8c6-ff3db7cf8cf5)
