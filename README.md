@@ -45,7 +45,7 @@
 
 A mobile application developer proficient in both Flutter (for cross-platform development) and Native Android (Kotlin/Java) development. This combination allows for flexibility in choosing the right approach based on project requirements—Flutter for rapid cross-platform deployment and Native Android for performance-critical or platform-specific features.
 
-#### Mobile Development Market Analysis (2015-2025)
+### Assignment 2: Mobile Development Market Analysis (2015-2025)
 
 ##### Market Overview
 ![image](https://github.com/user-attachments/assets/5f216712-cf31-42e6-8f26-d0a9cd0980a4)
@@ -103,6 +103,22 @@ The mobile development industry has experienced significant growth over the past
 - Cost and time efficiency of cross-platform technologies (Flutter, React Native)
 - Integration of advanced technologies (AI, IoT, AR/VR) enhancing mobile app capabilities
 - Super apps and elevated user experience expectations driving investment in mobile development
+### Assignment 3: Mobile app UI
+
+🟦 Splash Screen UI Description (in English):
+
+◼️ The screen has a minimalistic white background, giving a clean and modern look.
+
+◼️ At the center, there is a prominent app icon with a dark rounded-square background and a blue-gradient play button symbol resembling audio spikes.
+
+◼️ Below the icon, the brand name "SPIKETUNE" is clearly displayed in white, bold font.
+
+◼️ Underneath the logo, there is a motivational slogan in blue stylized text:
+
+                              "YOUR SOUNDTRACK, YOUR STORY"
+                                       – SPIKETUNE –
+
+![image](https://github.com/user-attachments/assets/91806acd-b0b8-4da3-8b59-51ce0ac41eb3)
 
 ## 📌 Note
 
