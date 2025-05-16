@@ -116,7 +116,7 @@ The mobile development industry has experienced significant growth over the past
 ◼️ Underneath the logo, there is a motivational slogan in blue stylized text:
 
                               "YOUR SOUNDTRACK, YOUR STORY"
-                              – SPIKETUNE –
+                                       – SPIKETUNE –
 
 ![image](https://github.com/user-attachments/assets/35c5e9b0-c4c3-498d-be63-bec6e798b1ec)
 
