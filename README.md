@@ -118,7 +118,7 @@ The mobile development industry has experienced significant growth over the past
                               "YOUR SOUNDTRACK, YOUR STORY"
                                        – SPIKETUNE –
 
-![image](https://github.com/user-attachments/assets/35c5e9b0-c4c3-498d-be63-bec6e798b1ec)
+![image](https://github.com/user-attachments/assets/91806acd-b0b8-4da3-8b59-51ce0ac41eb3)
 
 ## 📌 Note
 
