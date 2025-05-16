@@ -13,18 +13,14 @@
 ## Assignment 2: Email format checking.
 ---------------
 ![image](https://github.com/user-attachments/assets/dab03c71-b8bc-4ed9-8d62-08450dc2c2ed)
-![image](https://github.com/user-attachments/assets/0b593ff1-c58f-4fde-ab4b-945d48b003a0)
-![image](https://github.com/user-attachments/assets/0b579088-ac90-44e6-81ca-3e9598298694)
-
+![image](https://github.com/user-attachments/assets/f1587123-5984-4fce-a760-b52c85d49e0c)
 ---------------
 Email Validation with Null Safety
 ![image](https://github.com/user-attachments/assets/779ecdb1-ae35-49b1-b169-d5a9cb238931)
----------------
 Key Points:
 1.	Null check: isNullOrEmpty() handles both null and empty strings.
 2.	Regex: Validates standard email format (e.g., user@example.com).
 3.	Feedback: Uses Toast to show validation results
----------------
 Usage Example:
 ![image](https://github.com/user-attachments/assets/aae5f66d-987e-47f4-87cc-1016113427f0)
 •	Rejects 0509031 (invalid format).
