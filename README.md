@@ -107,16 +107,16 @@ The mobile development industry has experienced significant growth over the past
 
 🟦 Splash Screen UI Description (in English):
 
-The screen has a minimalistic white background, giving a clean and modern look.
+◼️ The screen has a minimalistic white background, giving a clean and modern look.
 
-At the center, there is a prominent app icon with a dark rounded-square background and a blue-gradient play button symbol resembling audio spikes.
+◼️ At the center, there is a prominent app icon with a dark rounded-square background and a blue-gradient play button symbol resembling audio spikes.
 
-Below the icon, the brand name "SPIKETUNE" is clearly displayed in white, bold font.
+◼️ Below the icon, the brand name "SPIKETUNE" is clearly displayed in white, bold font.
 
-Underneath the logo, there is a motivational slogan in blue stylized text:
+◼️ Underneath the logo, there is a motivational slogan in blue stylized text:
 
-"YOUR SOUNDTRACK, YOUR STORY"
-– SPIKETUNE –
+                              "YOUR SOUNDTRACK, YOUR STORY"
+                              – SPIKETUNE –
 
 ![image](https://github.com/user-attachments/assets/35c5e9b0-c4c3-498d-be63-bec6e798b1ec)
 
