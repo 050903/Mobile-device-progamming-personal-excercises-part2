@@ -12,7 +12,7 @@
 •	Light purple app bar with the title "Hello World".
 ## Assignment 2: Email format checking.
 ---------------
-![image](https://github.com/user-attachments/assets/dab03c71-b8bc-4ed9-8d62-08450dc2c2ed)
+![image](https://github.com/user-attachments/assets/3f7b506a-f34d-4308-920b-685a4ee717a7)
 ![image](https://github.com/user-attachments/assets/f1587123-5984-4fce-a760-b52c85d49e0c)
 ---------------
 Email Validation with Null Safety
