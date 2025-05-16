@@ -105,7 +105,20 @@ The mobile development industry has experienced significant growth over the past
 - Super apps and elevated user experience expectations driving investment in mobile development
 ### Assignment 3: Mobile app UI
 
-![image](https://github.com/user-attachments/assets/a6011c47-96dc-4fbf-9a00-ac0c1b236f4c)
+🟦 Splash Screen UI Description (in English):
+
+The screen has a minimalistic white background, giving a clean and modern look.
+
+At the center, there is a prominent app icon with a dark rounded-square background and a blue-gradient play button symbol resembling audio spikes.
+
+Below the icon, the brand name "SPIKETUNE" is clearly displayed in white, bold font.
+
+Underneath the logo, there is a motivational slogan in blue stylized text:
+
+"YOUR SOUNDTRACK, YOUR STORY"
+– SPIKETUNE –
+
+![image](https://github.com/user-attachments/assets/35c5e9b0-c4c3-498d-be63-bec6e798b1ec)
 
 ## 📌 Note
 
