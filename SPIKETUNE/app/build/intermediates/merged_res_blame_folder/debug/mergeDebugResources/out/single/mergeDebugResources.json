@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-hdpi_spiketune_icon_round.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-hdpi/spiketune_icon_round.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xxhdpi_spiketune_icon_foreground.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xxhdpi/spiketune_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-hdpi_spiketune_icon_foreground.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-hdpi/spiketune_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/layout_activity_main.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xxhdpi_spiketune_icon_round.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xxhdpi/spiketune_icon_round.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-anydpi-v26_spiketune_icon_round.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-anydpi-v26/spiketune_icon_round.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-anydpi-v26_spiketune_icon.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-anydpi-v26/spiketune_icon.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-hdpi_spiketune_icon.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-hdpi/spiketune_icon.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xhdpi_spiketune_icon.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xhdpi/spiketune_icon.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-mdpi_spiketune_icon.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-mdpi/spiketune_icon.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xxxhdpi_spiketune_icon_round.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xxxhdpi/spiketune_icon_round.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/layout_activity_splash.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-mdpi_spiketune_icon_foreground.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-mdpi/spiketune_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xxxhdpi_spiketune_icon.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xxxhdpi/spiketune_icon.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/xml_backup_rules.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.spiketune.app-main-71:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xxhdpi_spiketune_icon.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xxhdpi/spiketune_icon.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xxxhdpi_spiketune_icon_foreground.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xxxhdpi/spiketune_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xhdpi_spiketune_icon_round.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xhdpi/spiketune_icon_round.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/drawable_spiketuneicon.png.flat",
+        "source": "com.example.spiketune.app-main-71:/drawable/spiketuneicon.png"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-xhdpi_spiketune_icon_foreground.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-xhdpi/spiketune_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.spiketune.app-debug-69:/mipmap-mdpi_spiketune_icon_round.webp.flat",
+        "source": "com.example.spiketune.app-main-71:/mipmap-mdpi/spiketune_icon_round.webp"
+    }
+]

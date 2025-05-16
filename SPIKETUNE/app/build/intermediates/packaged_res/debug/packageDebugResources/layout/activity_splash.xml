@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@android:color/white"
+    android:padding="24dp">
+
+    <!-- Icon Image -->
+
+    <!-- Slogan Text -->
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:contentDescription="SPIKETUNE Logo"
+        android:src="@drawable/spiketuneicon" />
+
+    <TextView
+        android:id="@+id/sloganText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowDx="0"
+        android:shadowDy="1"
+        android:shadowRadius="1.5"
+        android:text="&quot;YOUR SOUNDTRACK, YOUR STORY&quot;\n– SPIKETUNE –"
+        android:textColor="#3399FF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</LinearLayout>
